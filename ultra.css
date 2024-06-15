@@ -61,7 +61,7 @@ svg.cursorDefault--wfhy5 {
 
 .member_aa4760 .channel__0aef5 svg.dots-1BwzZQ,
 .channel__0aef5 svg.dots-1BwzZQ {
-    overflow: hidden;
+    overflow: visible;
 }
 
 .lookInverted-2mDUMi .contents-3ca1mk {
@@ -512,7 +512,6 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base__1aa9d.size24__367cf,
 
 .scrollableContainer_ff917f {
     border-radius: 20px;
-    min-height: 70px !important;
     display: flex;
     justify-content: center;
     flex-direction: column;
